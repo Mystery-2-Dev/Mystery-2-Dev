@@ -7,7 +7,7 @@
 ##
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery-2-Dev&layout=compact&theme=radical)](https://github.com/Mystery-2-Dev/github-readme-stats)
-<img align='right' src="https://github.com/Mystery-2-Dev/Mystery-2-Dev/blob/master/github_octocat.gif" width='300'>
+<img align="right" width="300" height="250" src="github_octocat.gif"/>
  ##
  
   <img src="https://komarev.com/ghpvc/?username=Mystery-2-dev" width=160px/>
