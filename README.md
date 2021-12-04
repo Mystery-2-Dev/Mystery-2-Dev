@@ -7,7 +7,7 @@
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery-2-Dev&layout=compact&theme=radical)](https://github.com/Mystery-2-Dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery-2-Dev&layout=compact&theme=gradient)](https://github.com/Mystery-2-Dev/github-readme-stats)
 <img align="right" width="250" height="180" src="github-octocat.gif"/>
  ##
  
