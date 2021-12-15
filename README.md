@@ -16,5 +16,5 @@
   <img src="https://komarev.com/ghpvc/?username=Mystery-2-Dev" width=160px/>
   
 #
-
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Mystery-2-Dev&theme=react-dark&hide_border=true&area=true)
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/main/github-contribution-grid-snake.svg)
