@@ -17,14 +17,21 @@
 <br/>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/Mystery-2-Dev" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Mystery-2-Dev&style=flat&color=red"> •   
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Mystery-2-Dev?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/Mystery-2-Dev?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
+#
+<p align="center">
+  <a>
+    <img height="150" width="150" src="https://github.com/Mystery-2-Dev/Mystery-2-Dev/blob/master/PNG/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mystery-2-Dev&theme=dark&hide_border=true"/>
+    <img height="150" width="150" src="https://github.com/Mystery-2-Dev/Mystery-2-Dev/blob/master/PNG/right.png">
+  </a>
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mystery-2-Dev&show_icons=true&include_all_commits=true&bg_color=151515&title_color=ffff&text_color=fff9&icon_color=52CB61&hide=issues,stars" />
+
 <img align="right" width="280" height="200" src="github-octocat.gif"/>
 
 <br>
