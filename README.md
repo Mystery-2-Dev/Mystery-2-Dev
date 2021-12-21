@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/Mystery-2-Dev" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
-<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Mystery-2-Dev&style=flat&color=red"> •    -->
+ <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Mystery-2-Dev&style=flat&color=red"> •   
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Mystery-2-Dev?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/Mystery-2-Dev?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
@@ -33,7 +33,7 @@
 
 #
 
-  <img src="https://komarev.com/ghpvc/?username=Mystery-2-Dev" width=160px/>
+  
   
 #
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Mystery-2-Dev&theme=react-dark&hide_border=true&area=true)
