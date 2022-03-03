@@ -70,7 +70,6 @@
 
  ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Mystery-2-Dev&theme=react-dark&hide_border=true&area=true) 
   
-  ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Mystery-2-Dev/Mystery-2-Dev/blob/main/github-contribution-grid-snake.svg)
   
   <br/>
   
