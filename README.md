@@ -27,7 +27,9 @@
 
 #
 <p align="center">
-   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&Text=DDC698&Border=D8DD5C&Title=2CA1DD">    <img  alt="Mysterious-Developer's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Mysterious-Developer?cardType=github&theme=dark&Text=DDC698&Border=D8DD5C&Title=2CA1DD" />  </a>
+  <a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mystery-2-Dev&theme=dark&hide_border=true"/>
+  </a>
 </p>
 
 <br/>
