@@ -69,8 +69,8 @@
 </p>
 <br>
 
- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Mystery-2-Dev&theme=react-dark&hide_border=true&area=true) 
-
+ <h2 align="center">Github's Contribution</h2>
+<a href="https://github.com/Mystery-2-Dev/github-readme-activity-graph"><img alt="Mysterious Developer Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Mystery-2-Dev&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
   <br/>
   
   
