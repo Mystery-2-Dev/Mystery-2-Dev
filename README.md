@@ -31,7 +31,6 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mystery-2-Dev streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mystery-2-Dev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
 <br/>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
@@ -76,5 +75,7 @@
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
-  
+ <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p> 
   
