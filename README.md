@@ -33,6 +33,7 @@
 </p>
 <br/>
 
+
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
 <br/>
@@ -78,4 +79,6 @@
  <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p> 
+[![@mystery2deve's Holopin board](https://holopin.me/mystery2deve)](https://holopin.io/@mystery2deve)
+
   
